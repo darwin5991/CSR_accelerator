@@ -1,2 +1,6 @@
 uart_project/
 uart_project_files/
+
+xsim.dir/
+dfx_runtime.txt
+xvlog.pb
