@@ -1,0 +1,44 @@
+Dash_project.gen/
+__pycache__/
+checkpoints/
+data/
+download/
+
+
+
+
+# 99_Archive/
+# pytorch_practice/__pycache__/
+# pytorch_practice/checkpoints/saved_results/*
+# *.pt
+# *.pth
+# !pytorch_practice/checkpoints/saved_results/psa_re_results_torch.pt
+# pytorch_practice/checkpoints/CNN_CIFAR10_final_weights.pth
+# pytorch_practice/data/
+# pytorch_practice/download/
+
+
+cs231n/
+MIT/
+
+
+Verilog_file/accel_csr_core.sv
+Verilog_file/tb_accel.sv
+Verilog_file/tb_mac_channel_behav.wcfg
+Verilog_file/통합 문서1.xlsx
+
+
+NPU 설계.xlsx
+
+프레젠테이션1.pptx
+발표자료/박상헌_.pptx
+발표자료/홍동의_중앙대_NPU설계.pdf
+발표자료/홍동의_중앙대_NPU설계.pptx
+발표자료/홍동의_중앙대_pruning,quantization.pdf
+발표자료/홍동의_중앙대_pruning,quantization.pptx
+프레젠테이션 템플릿.pptx
+
+
+desktop.ini
+viado_project.lnk
+
